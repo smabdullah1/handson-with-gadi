@@ -31,6 +31,7 @@ will be provided for you during the session.
 
     tutorial/basics.rst
     tutorial/jobs.rst
+    tutorial/are.rst
 
 
 
