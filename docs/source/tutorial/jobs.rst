@@ -84,7 +84,7 @@ the command
 .. code-block:: console
     :linenos:
 
-    qsub 0_test_script.pbs
+    qsub cpu.pbs
 
 and to know the status of your job use the command
 
