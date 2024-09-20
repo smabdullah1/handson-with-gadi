@@ -30,6 +30,7 @@ will be provided for you during the session.
 .. toctree::
 
     tutorial/basics.rst
+    tutorial/jobs.rst
 
 
 
