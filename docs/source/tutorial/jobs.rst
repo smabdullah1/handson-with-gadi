@@ -4,8 +4,7 @@ Requesting Resources
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 15 min
-    * **Exercises:** 5 min
+    * **Tutorial:** 30 min
 
         **Objectives:**
             #. Learn how to write a PBS job script for Gadi.

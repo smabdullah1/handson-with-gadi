@@ -4,7 +4,7 @@ Basics Linux Commands
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 45 min
+    * **Tutorial:** 30 min
 
         **Objectives:**
             #. Learn how to use Gadi terminal.

@@ -4,8 +4,7 @@ Australian Research Environment (ARE)
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 15 min
-    * **Exercises:** 5 min
+    * **Tutorial:** 30 min
 
         **Objectives:**
             #. Learn how to use Jupyter notebooks in ARE. 
