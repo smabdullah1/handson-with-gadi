@@ -2,12 +2,12 @@ Learning Outcomes
 =================
 
 .. note::
-    #. Understand how tensors work in PyTorch.
-    #. Learn how to load data in PyTorch.
-    #. Get acquainted with using the ARE platform on Gadi.
+    #. Learn basic Linux commands you need on Gadi.
+    #. Learn how to launch a job on Gadi
+    #. Learn how to the Australian Research Environment (ARE).
 
-In this workshop, you will learn the basics of PyTorch, including tensor operations, dynamic computation 
-graphs, and neural network modules. This workshop will provide practical experience in building and t
-raining neural networks using PyTorch. 
+This workshop provides an introduction to basic command-line operations and guidelines for working 
+efficiently on Gadi, the high-performance computing (HPC) machine at the National Computational 
+Infrastructure (NCI).
 
 

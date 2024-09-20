@@ -3,8 +3,7 @@ Prerequisite
 
 .. note::
     #. Access to a shell that supports SSH.
-    #. NCI account.
-    #. Access tp project vp91.
+    #. NCI account and access to project `vp91`.
 
 .. important::
     For a smooth setup on the supercomputer system, please register for an NCI account if you don't have one:
