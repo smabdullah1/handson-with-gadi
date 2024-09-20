@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Introduction to Neural Networks and PyTorch'
+project = 'Handson with Gadi'
 copyright = '2024, National Computational Infrastructure'
 author = 'Joseph John'
 
