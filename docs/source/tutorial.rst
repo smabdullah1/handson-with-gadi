@@ -23,6 +23,7 @@ Repo: https://github.com/NCI900-Training-Organisation/handson-with-gadi.git
 
 .. toctree::
 
+    tutorial/login.rst
     tutorial/basics.rst
     tutorial/jobs.rst
     tutorial/are.rst

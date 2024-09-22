@@ -1,4 +1,4 @@
-Australian Research Environment (ARE)
+Jupyter notebooks in ARE 
 -------------------------------------
 
 .. admonition:: Overview
