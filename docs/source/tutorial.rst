@@ -13,6 +13,10 @@ Repo: https://github.com/NCI900-Training-Organisation/handson-with-gadi.git
  
   * - Topics
     - Duration
+  * - Introduction to HPC, NCI and Gadi
+    - 45 minutes
+  * - Australian Research Environment (ARE)
+    - 10 minutes
   * - Basic Linux Commands
     - 30 minutes
   * - Submitting a Job
@@ -23,6 +27,7 @@ Repo: https://github.com/NCI900-Training-Organisation/handson-with-gadi.git
 
 .. toctree::
 
+    tutorial/hpc.rst
     tutorial/login.rst
     tutorial/basics.rst
     tutorial/jobs.rst
